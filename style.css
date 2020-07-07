@@ -1,0 +1,9 @@
+.button{
+    background-color: rgb(51, 163, 51);
+    color: white;
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+.navbar-brand img {
+    width: 130px;
+}
