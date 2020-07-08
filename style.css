@@ -24,13 +24,17 @@ div img {
     width: 100%;
 }
 .bg-color{
-    background-color: rgb(215, 250, 222);
+    background-color: rgb(227, 250, 232);
 }
 .col-md-3 img{
     width: 100px;
 }
 .bg-lightgreen{
-    background-color: rgb(241, 250, 241);
+    background-color: rgb(236, 247, 236);
+}
+.icon-style{
+    box-shadow: 1px 1px 10px lightgray;
+    border-radius: 5px;
 }
 .card-footer{
     background-color: white;
@@ -51,4 +55,18 @@ div img {
     font-weight: bold;
     font-size: 40px;
     margin-bottom: 50px;
+}
+footer p, a:link{
+    color: lightgray;
+}
+.footer-area{
+    height: auto;
+    padding-top: 50px;
+}
+.text-white{
+    background-color: black;
+    color: white;
+}
+footer li {
+    list-style-type: none;
 }
